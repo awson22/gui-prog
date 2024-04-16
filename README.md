@@ -1,3 +1,3 @@
 # gui-prog
 
-_Gruppenarbeit EA_
+Gruppenarbeit EA
